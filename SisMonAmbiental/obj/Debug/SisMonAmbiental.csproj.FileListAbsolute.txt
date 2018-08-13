@@ -1,0 +1,45 @@
+C:\Users\Prado\documents\visual studio 2012\Projects\SisMonAmbiental\SisMonAmbiental\bin\SisMonAmbiental.dll
+C:\Users\Prado\documents\visual studio 2012\Projects\SisMonAmbiental\SisMonAmbiental\bin\SisMonAmbiental.pdb
+C:\Users\Prado\documents\visual studio 2012\Projects\SisMonAmbiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.csprojResolveAssemblyReference.cache
+C:\Users\Prado\documents\visual studio 2012\Projects\SisMonAmbiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.dll
+C:\Users\Prado\documents\visual studio 2012\Projects\SisMonAmbiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.pdb
+C:\SistemaMonitoreoA\SisMonAmbiental\bin\SisMonAmbiental.dll
+C:\SistemaMonitoreoA\SisMonAmbiental\bin\SisMonAmbiental.pdb
+C:\SistemaMonitoreoA\SisMonAmbiental\obj\Debug\SisMonAmbiental.dll
+C:\SistemaMonitoreoA\SisMonAmbiental\obj\Debug\SisMonAmbiental.pdb
+C:\SistemaMonitoreoA\SisMonAmbiental\obj\Debug\SisMonAmbiental.csprojResolveAssemblyReference.cache
+C:\Inifap\Caborca\SisMonAmbiental\obj\Debug\SisMonAmbiental.csprojResolveAssemblyReference.cache
+C:\Inifap\Caborca\SisMonAmbiental\obj\Debug\SisMonAmbiental.dll
+C:\Inifap\Caborca\SisMonAmbiental\bin\SisMonAmbiental.dll
+C:\Inifap\Caborca\SisMonAmbiental\bin\SisMonAmbiental.pdb
+C:\Inifap\Caborca\SisMonAmbiental\obj\Debug\SisMonAmbiental.pdb
+C:\Inifap\Caborca\SisMonAmbiental\bin\AjaxControlToolkit.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\SisMonAmbiental.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\SisMonAmbiental.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\AjaxControlToolkit.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Business.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Data.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Entity.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Provider.dll
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Business.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Data.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Entity.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\bin\Provider.pdb
+C:\Proyectos\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.csprojResolveAssemblyReference.cache
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\SisMonAmbiental.dll.config
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\SisMonAmbiental.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\SisMonAmbiental.pdb
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\AjaxControlToolkit.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Business.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Data.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Entity.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Provider.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Business.pdb
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Data.pdb
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Entity.pdb
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\bin\Provider.pdb
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.csprojResolveAssemblyReference.cache
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.dll
+C:\GitHub\sistemamonitoreoambiental\SisMonAmbiental\obj\Debug\SisMonAmbiental.pdb

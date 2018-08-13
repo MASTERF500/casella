@@ -1,0 +1,8 @@
+C:\Proyectos\sistemamonitoreoambiental\Entity\bin\Debug\Entity.dll
+C:\Proyectos\sistemamonitoreoambiental\Entity\bin\Debug\Entity.pdb
+C:\Proyectos\sistemamonitoreoambiental\Entity\obj\Debug\Entity.dll
+C:\Proyectos\sistemamonitoreoambiental\Entity\obj\Debug\Entity.pdb
+C:\GitHub\sistemamonitoreoambiental\Entity\bin\Debug\Entity.dll
+C:\GitHub\sistemamonitoreoambiental\Entity\bin\Debug\Entity.pdb
+C:\GitHub\sistemamonitoreoambiental\Entity\obj\Debug\Entity.dll
+C:\GitHub\sistemamonitoreoambiental\Entity\obj\Debug\Entity.pdb

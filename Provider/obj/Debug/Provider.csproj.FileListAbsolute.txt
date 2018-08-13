@@ -1,0 +1,14 @@
+C:\Proyectos\sistemamonitoreoambiental\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+C:\Proyectos\sistemamonitoreoambiental\Provider\bin\Debug\Provider.dll
+C:\Proyectos\sistemamonitoreoambiental\Provider\bin\Debug\Provider.pdb
+C:\Proyectos\sistemamonitoreoambiental\Provider\bin\Debug\Entity.dll
+C:\Proyectos\sistemamonitoreoambiental\Provider\bin\Debug\Entity.pdb
+C:\Proyectos\sistemamonitoreoambiental\Provider\obj\Debug\Provider.dll
+C:\Proyectos\sistemamonitoreoambiental\Provider\obj\Debug\Provider.pdb
+C:\GitHub\sistemamonitoreoambiental\Provider\bin\Debug\Provider.dll
+C:\GitHub\sistemamonitoreoambiental\Provider\bin\Debug\Provider.pdb
+C:\GitHub\sistemamonitoreoambiental\Provider\bin\Debug\Entity.dll
+C:\GitHub\sistemamonitoreoambiental\Provider\bin\Debug\Entity.pdb
+C:\GitHub\sistemamonitoreoambiental\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+C:\GitHub\sistemamonitoreoambiental\Provider\obj\Debug\Provider.dll
+C:\GitHub\sistemamonitoreoambiental\Provider\obj\Debug\Provider.pdb

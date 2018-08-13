@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Sonora</name>
+    <Placemark>
+      <name>Campo El Mexicano, Sonora</name>
+      <description>
+        <![CDATA[
+          <p><b>Latitud:</b> 30.817068<br/><b>Longitud:</b> -112.56534<br/><a name="link_id" id="link_id" href="http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=3" onclick="window.open('http://clima.inifap.gob.mx/caborca/Paginas/Info.aspx?estacion=3');window.close();">Datos</a></p>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>-112.56534,30.817068</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PROFYH, Sonora</name>
+      <description>
+        <![CDATA[
+          <p><b>Latitud:</b> 30.711045<br/><b>Longitud:</b> -112.163607<br/><a name="link_id" id="link_id" href="http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=5" onclick="window.open('http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=5');window.close();">Datos</a></p>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>-112.163607,30.711045</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vicente Guerrero</name>
+      <description>
+        <![CDATA[
+          <p><b>Latitud:</b> 30.845956<br/><b>Longitud:</b> -112.86311<br/><a name="link_id" id="link_id" href="http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=1" onclick="window.open('http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=1');window.close();">Datos</a></p>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>-112.86311,30.845956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo San Juan, Sonora</name>
+      <description>
+        <![CDATA[
+          <p><b>Latitud:</b> 30.735558<br/><b>Longitud:</b> -112.742067<br/><a name="link_id" id="link_id" href="http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=2" onclick="window.open('http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=2');window.close();">Datos</a></p>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>-112.742067,30.735558</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo El Tecolote, Sonora</name>
+      <description>
+        <![CDATA[
+          <p><b>Latitud:</b> 30.969744<br/><b>Longitud:</b> -113.017752<br/><a name="link_id" id="link_id" href="http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=4" onclick="window.open('http://clima.inifap.gob.mx/caborca/Paginas/Datos.aspx?estacion=4');window.close();">Datos</a></p>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>-113.017752,30.969744</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
